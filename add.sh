@@ -1,3 +1,3 @@
 #! /bin/bash
-((sum=4+5))
+((sum=12+15))
 echo "$sum"
